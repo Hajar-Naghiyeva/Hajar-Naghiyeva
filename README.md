@@ -84,8 +84,6 @@
           <a href="https://github.com/Hajar-Naghiyeva/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hajar-Naghiyeva&theme=gruvbox&layout=compact&hide_border=true"
           alt="Hajar-Naghiyeva :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hajar-Naghiyeva&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Hajar-Naghiyeva :: Top Langs by commit" />
           </a>
         </p>
 </details>
