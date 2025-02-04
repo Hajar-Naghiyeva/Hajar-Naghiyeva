@@ -92,7 +92,7 @@
         <p align="center">
           <a href="https://github.com/Hajar-Naghiyeva/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Hajar-Naghiyeva&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&custom_title=Total%20Commits%20in%202025" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hajar-Naghiyeva&theme=tokyonight_duo" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hajar-Naghiyeva&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
