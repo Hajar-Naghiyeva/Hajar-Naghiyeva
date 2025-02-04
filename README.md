@@ -38,7 +38,7 @@
   <summary>🧮 about</summary>
 <div>
 <samp>
-<h2 align="center">About this Account</h2>
+<h2 align="center">About This Account</h2>
  <p align="center">
   <a href="github.com/1999AZZAR" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" height="25"
@@ -90,8 +90,9 @@
         </p>
 </details>
     <details open>
-  <summary><h3>stasistic</h3></summary>
+  <summary><h3>Statistics</h3></summary>
         <p align="center">
+          ![GitHub Metrics](https://github.com/Hajar-Naghiyeva/Hajar-Naghiyeva/blob/main/github-metrics.svg)
           <a href="https://github.com/Hajar-Naghiyeva/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
