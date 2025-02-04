@@ -105,5 +105,5 @@
 </details>
   
 -----
-Credits: [1999AZZAR](https://github.com/1999AZZAR)
+Credits: 1999AZZAR
 Taken, Used, and Cited on: 2/5/2025
