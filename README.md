@@ -57,18 +57,18 @@
             <p align="center">
         <a href="https://github.com/Hajar-Naghiyeva/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hajar-Naghiyeva&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Hajar-Naghiyeva :: overall Top Langs " /></a>
+          alt="Hajar-Naghiyeva :: overall Top Languages " /></a>
       </p>
         <p align="center">
           <a href="https://github.com/Hajar-Naghiyeva/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hajar-Naghiyeva&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Hajar-Naghiyeva :: Top Langs by Repo" />
+          alt="Hajar-Naghiyeva :: Top Languages by Repo" />
           </a>
         </p>
       <p align="center">
       <a href="https://github.com/Hajar-Naghiyeva/">
-          <img width="45%" src="[https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hajar-Naghiyeva&theme=gruvbox&layout=compact&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs?username=Hajar-Naghiyeva&langs_count=10&show_icons=true&locale=en&theme=tokyonight)"
-          alt="Hajar-Naghiyeva :: Top Langs by Repo" />
+          <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hajar-Naghiyeva&langs_count=6&theme=gruvbox&layout=compact&hide_border=true%22alt=%22Hajar-Naghiyeva"
+          alt="Hajar-Naghiyeva :: Most Used Languages" />
           </a>
         </p>
 </details>
