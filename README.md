@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi👋, I am Hajar Naghiyeva</h1>
-<h4 align="center">I am a <b>Machine Learning Engineer Interested in the Space Sector.</b></h4>
+<h4 align="center">I am a <b>Machine Learning Engineer Interested in the Space Sector</b></h4>
 </div>
 
 -----
