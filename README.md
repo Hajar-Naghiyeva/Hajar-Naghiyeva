@@ -38,9 +38,33 @@
   <summary>🧮 about</summary>
 <div>
 <samp>
-<h2 align="center">About This Account</h2>
+<h2 align="center">About Me</h2>
   <p align="center">
-    HELLO
+    <p>Hi, I am <strong>Hajar Naghiyeva</strong>, a <strong>Machine Learning Engineer</strong> passionate about <strong>AI-driven innovation in space sector</strong>. My experience spans <strong>computer vision, deep learning, and data analytics</strong>, with a strong focus on <strong>real-world applications</strong>.</p>
+
+<h3>💻 Research & Development</h3>
+<ul>
+    <li>Junior Researcher at <strong>CeDAR (ADA University)</strong></li>
+</ul>
+
+<h3>💡 Projects & Achievements</h3>
+<ul>
+    <li><strong>CanSat Global 2024 Finalist</strong>, <strong>CanSat Azerbaijan 2023 Winner</strong>, <strong>IAC 2023 Representative</strong>, and <strong>Space for Women Mentee</strong>.</li>
+    <li>AI Mentor, Research Presenter, and Advocate for <strong>AI Education and Sustainability</strong>.</li>
+</ul>
+
+<h3>👩🏻‍💻 Tech Stack</h3>
+<h4>Programming Languages</h4>
+<ul>
+  <li><p>Python, C, C++, Java</p></li>
+</ul>
+
+<h4>AI/ML Frameworks & Tools</h4>
+<ul>
+  <li><p>PyTorch, TensorFlow, OpenCV, Hugging Face</p></li>
+</ul>
+    
+<p>Let's connect and build something impactful! 🚀</p>
   </p>
  </samp>
 </div>
