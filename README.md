@@ -65,10 +65,12 @@
           alt="Hajar-Naghiyeva :: Top Langs by Repo" />
           </a>
         </p>
+      <p align="center">
       <a href="https://github.com/Hajar-Naghiyeva/">
           <img width="45%" src="[https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hajar-Naghiyeva&theme=gruvbox&layout=compact&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs?username=Hajar-Naghiyeva&langs_count=10&show_icons=true&locale=en&theme=tokyonight)"
           alt="Hajar-Naghiyeva :: Top Langs by Repo" />
           </a>
+        </p>
 </details>
     <details open>
   <summary><h3>Statistics</h3></summary>
