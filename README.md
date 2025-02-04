@@ -71,28 +71,28 @@
   <summary>💻 GitHub Profile Stats</summary>
   <div>
   <samp>
-    <h2 align="center"> Github stats </h2>
+    <h2 align="center"> GitHub Stats </h2>
       <br/>
     <details open>
   <summary><h3>Languages</h3></summary>
             <p align="center">
-        <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: overall Top Langs " /></a>
+        <a href="https://github.com/Hajar-Naghiyeva/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hajar-Naghiyeva&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="Hajar-Naghiyeva :: overall Top Langs " /></a>
       </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
+          <a href="https://github.com/Hajar-Naghiyeva/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hajar-Naghiyeva&theme=gruvbox&layout=compact&hide_border=true"
+          alt="Hajar-Naghiyeva :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hajar-Naghiyeva&theme=gruvbox&layout=compact&hide_border=true"
+          alt="Hajar-Naghiyeva :: Top Langs by commit" />
           </a>
         </p>
 </details>
     <details open>
   <summary><h3>stasistic</h3></summary>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/Hajar-Naghiyeva/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
           </a>
